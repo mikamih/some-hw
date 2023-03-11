@@ -1,0 +1,47 @@
+[
+    {
+     "name": "recon phantom",
+     "img": "https://files.cults3d.com/uploaders/21595173/illustration-file/b68e2398-d9e2-4a07-8fa6-26cef0659a64/Valorant-Recon-Collection-Phantom-HD.jpg",
+     "desc": "a gun with laser",
+     "salePrice": 1172,
+     "originalPrice": 1775,
+     "isHot": true,
+     "id": "1"
+    },
+    {
+     "name": "reaver operator",
+     "img": "https://i.pinimg.com/736x/2f/fa/c5/2ffac5af4be8dda7b1b1fe0cfc95df1c.jpg",
+     "desc": "oooooh a spoky sniper gun",
+     "salePrice": 1030,
+     "originalPrice": 1275,
+     "isHot": true,
+     "id": "2"
+    },
+    {
+     "name": "gaia vengeance axe",
+     "img": "https://valorantstrike.com/wp-content/uploads/Valorant-Gaia_s-Vengeance-Collection-Melee-HD.jpg",
+     "desc": "if you change it to blue then lets be kratos",
+     "salePrice": 1175,
+     "originalPrice": 3550,
+     "isHot": true,
+     "id": "3"
+    },
+    {
+     "name": "ion phantom",
+     "img": "https://gameriv.com/wp-content/uploads/2020/12/ion-featured.jpg",
+     "desc": "futuristic gun",
+     "salePrice": 875,
+     "originalPrice": 1775,
+     "isHot": true,
+     "id": "4"
+    },
+    {
+     "name": "Blade of serket",
+     "img": "https://valorantinfo.com/images/us/blade-of-serket_valorant_full_skin_407475.webp",
+     "desc": "twin blade ig",
+     "salePrice": 2040,
+     "originalPrice": 2550,
+     "isHot": true,
+     "id": "5"
+    }
+   ]
